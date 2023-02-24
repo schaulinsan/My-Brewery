@@ -2,6 +2,10 @@
 Your project's description...
 
 ## Environments
+- Preview: https://main--my-brewery--schaulinsan.hlx.page/
+- Live: https://main--my-brewery--schaulinsan.hlx.live/
+
+## Environments (Original)
 - Preview: https://main--{repo}--{owner}.hlx.page/
 - Live: https://main--{repo}--{owner}.hlx.live/
 
